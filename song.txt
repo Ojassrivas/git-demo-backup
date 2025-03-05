@@ -9,3 +9,4 @@ now changing in feature branch
 
 
 working with tags
+working witg stash
